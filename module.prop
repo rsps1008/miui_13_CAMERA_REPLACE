@@ -1,0 +1,7 @@
+id=miui13camerareplace
+name=MIUI 13 CAMERA REPLACE
+author=rsps1008
+version=v1
+versionCode=1
+description=Let system/priv-app/MiuiCameraR/MiuiCameraR.apk in this module replace your factory miui camera app
+minMagisk=20400
